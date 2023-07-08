@@ -32,6 +32,6 @@ Algoritmo calcular_descuento_huevos
 		
 	FinSi
 	
-	Escribir "El descuento por su compra sera de: " precio_descuento
+	Escribir "El descuento por su compra sera de: ", precio_descuento
 	
 FinAlgoritmo
